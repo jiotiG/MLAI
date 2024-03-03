@@ -13,8 +13,10 @@ garg.jyoti@gmail.com
 
 - [Introduction](#introduction)
 - [Tools Used](#tools-used)
-- [Data](#data)
-- [Analysis](#analysis)
+- [Process](#process)
+- [Data understanding and data preparation](#data-understanding-and-data-preparation)
+- [Modeling](#modeling)
+- [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
